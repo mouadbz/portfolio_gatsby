@@ -64,7 +64,7 @@ const Contact = () => {
           ) : (
             <LogoImage fluid={darkLogo.childImageSharp.fluid} />
           )}
-          <CopyRight>Copyright © {new Date().getFullYear()}, Fidalgo</CopyRight>
+          <CopyRight>Copyright © {new Date().getFullYear()}, Mouad</CopyRight>
         </Wrapper>
       </Contained>
     </StyledSection>

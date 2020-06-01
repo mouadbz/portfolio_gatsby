@@ -103,10 +103,10 @@ const Home = () => {
               </span>
               ,
               <br />
-              I'm <span>Fidalgo</span>
+              I'm <span>Mouad</span>
             </Title>
             <SubTitle style={SubTitleSpring}>
-              A <WordsFading /> Front-end developer
+              A <WordsFading /> Full stack developer
             </SubTitle>
             <Link to="about-me" spy={true} smooth={true}>
               <Button style={ButtonSpring}>About me</Button>

@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Fidalgo | Front-end Developer`,
-    description: `I’m Fidalgo, a 23 years old self-taught Front-end developer, from Portugal.`,
-    author: `Fidalgo`,
-    siteUrl: 'https://fidalgo.dev',
+    title: `Mouad bouzidi | Full stack developer`,
+    description: `I’m Mouad, a 23 years old self-taught Full stack developer, from Morocco.`,
+    author: `Mouad bouzidi`,
+    siteUrl: 'https://mouad.dev',
     social: {
-      twitter: 'fidalgodev',
+      twitter: 'mouad bouzidi',
       instagram: 'fidalgodev',
       linkedin: 'fidalgodev',
       youtube: 'Fidalgodev',
       facebook: 'fidalgodev',
       github: 'fidalgodev',
-      email: 'hello@fidalgo.dev'
+      email: 'hello@mouad.dev'
     },
     // name of the image for social website share, should be in static folder
     imageShare: `share.jpg`
