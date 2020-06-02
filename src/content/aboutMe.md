@@ -4,7 +4,7 @@ curriculum: 'curriculum.pdf'
 creativeCurriculum: 'resume.pdf'
 ---
 
-I’m <span>Mouad</span> , a 22 years old self-taught <span>Full stacj</span> developer , from <span>Morocco</span> .
+I’m <span>Mouad Bouzidi</span> , a 22 years old self-taught <span>Full stack</span> developer , from <span>Morocco</span> .
 
 After my college degree in _"Communication & Multimedia"_, I got a job as a "developer", where I stayed for almost 2 years, but I only developed websites with Wordpress custom themes, and HTML & CSS… So I _wasn’t learning and improving_, I _felt stuck_.
 

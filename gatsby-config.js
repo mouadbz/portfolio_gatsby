@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Mouad bouzidi | Full stack developer`,
-    description: `I’m Mouad, a 23 years old self-taught Full stack developer, from Morocco.`,
+    description: `I’m Mouad, a 22 years old self-taught Full stack developer, from Morocco.`,
     author: `Mouad bouzidi`,
     siteUrl: 'https://mouad.dev',
     social: {
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-141189217-1D',
+        trackingId: 'UA-151884576-11',
         // Defines where to place the tracking script - `true` in the head and `false` in the body
         head: false
       }
