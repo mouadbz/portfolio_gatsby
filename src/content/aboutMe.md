@@ -2,6 +2,11 @@
 stack: 'HTML5 - CSS3 - JAVASCRIPT - SASS - WEBPACK - REACTJS - REDUX - STYLED COMPONENTS - CSS MODULES - FIREBASE - BABEL - GRAPHQL - GATSBY'
 curriculum: 'curriculum.pdf'
 creativeCurriculum: 'resume.pdf'
+
+
+ <Helmet>
+ <meta name="google-site-verification" content="SOCXgsHxWrGP9zVSorUNTen-frzwwRpr1aMHfzOIh90" />
+        </Helmet>
 ---
 
 I’m <span>Mouad Bouzidi</span> , a 22 years old self-taught <span>Full stack</span> developer , from <span>Morocco</span> .
