@@ -22,7 +22,7 @@ module.exports = {
       options: {
         trackingId: 'UA-151884576-11',
         // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: true
+        head: false
       }
     },
     `gatsby-plugin-use-dark-mode`,
